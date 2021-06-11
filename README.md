@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Musicophile and Foodie!**
 
-<img alt="Image-Coding" width="400" text-align="center" source="https://cdn.dribbble.com/users/2413843/screenshots/14167682/media/d08653dc7f952ea4b49cc000102fd440.png?compress=1&resize=1600x1200"/>
+<img alt="Image-Coding" width="400" text-align="center" source="https://cdn.dribbble.com/users/2413843/screenshots/14167682/media/d08653dc7f952ea4b49cc000102fd440.png?compress=1&resize=1600x1200"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
