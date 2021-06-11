@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himani Dave</h1>
-<h3 align="center">Front-End Developer| Designer | Learner</h3>
+<h3 align="center">Front-End Developer | Designer | Learner</h3>
 <div align="center">
 <img alt="Image-Coding" width="500" src="https://cdn.dribbble.com/users/2413843/screenshots/14167682/media/d08653dc7f952ea4b49cc000102fd440.png?compress=1&resize=1600x1200"></img>
 </div>
