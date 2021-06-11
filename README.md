@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himani Dave</h1>
 <h3 align="center">Front-End Developer| Designer | Learner</h3>
 
+<img alt="Image-Coding" width="500" text-align="center" src="https://cdn.dribbble.com/users/2413843/screenshots/14167682/media/d08653dc7f952ea4b49cc000102fd440.png?compress=1&resize=1600x1200"></img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanidave&label=Profile%20views&color=0e75b6&style=flat" alt="himanidave" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://himaniportfoliofinal.netlify.app](https://himaniportfoliofinal.netlify.app)
@@ -11,7 +13,7 @@
 
 - ⚡ Fun fact **Musicophile and Foodie!**
 
-<img alt="Image-Coding" width="400" img-align="center" src="https://cdn.dribbble.com/users/2413843/screenshots/14167682/media/d08653dc7f952ea4b49cc000102fd440.png?compress=1&resize=1600x1200"></img>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
